@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&family=Rowdies:wght@300&display=swap');
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.wrapper {
+	max-width: 1000px;
+	margin: auto;
+	background-color: #efefef;
+	height: 100%;
+}
+.header {
+	text-align: center;
+}
+.name {
+	font-family: 'Rowdies';
+	color: #303030;
+	font-size: 100px;
+}
+
+.born {
+	font-size: 33px;
+	color: #303030;
+}
+
+.before {
+	color: #303030;
+	font-family: 'Moon Dance';
+}
+.description {
+	font-family: 'Times New Roman';
+	border: 1px solid #dcdada;
+	margin-left: 55px;
+	margin-right: 55px;
+	color: #505050;
+	margin-bottom: 15px;
+}
+.photo {
+	text-align: center;
+	border: 1px solid #dcdada;
+	padding-top: 10px;
+	margin-left: 53px;
+	margin-right: 53px;
+}
+.around {
+	border-radius: 500px;
+}
+
+.discphoto {
+	background-color: #dedede;
+	padding: 12px 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	font-size: 20px;
+	font-family: 'Rowdies';
+	color: #303030;
+}
+.text {
+	font-family: 'Rowdies';
+	color: #303030;
+	margin: 15px;
+}
+
+.list {
+	font-family: 'Rowdies';
+	color: #303030;
+	padding-left: 39px;
+}
+
+.bottom {
+	text-align: center;
+	margin-top: 15px;
+	color: #303030;
+	padding-bottom: 39px;
+}
+
+.wiki {
+	text-decoration: none;
+	color: #187ccf;
+}
